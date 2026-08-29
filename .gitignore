@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.venv/
+.logs/
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
+.env
+vite.config.js
+vite.config.d.ts
+data/*.parquet
+data/*.dbn*
+data/*.json
+data/*.csv
+data/*.duckdb
+data/metadata/
